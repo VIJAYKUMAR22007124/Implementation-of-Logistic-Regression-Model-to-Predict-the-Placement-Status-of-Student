@@ -91,9 +91,7 @@ if(list(clf.predict([[0,87,0,95,0,2,0,0,2]]))[0] == 1):
 else:
     print("Won't get placed")
 ```
-
 ## Output:
-
 #### Placement data
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/13e39808-1ad2-4b2e-8388-67ecce12e5f5)
 #### Salary data
@@ -104,22 +102,15 @@ else:
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/0bb65667-ff40-4650-859e-f229918fbac0)
 #### Print data
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/1ec1b5b1-f9c0-48cc-92da-efb3af80f3ed)
-
 #### y_prediction Array
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/b53c6054-da1c-414a-ab79-88e4ea943faf)
-
 #### Accuracy value
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/23b1141d-c59a-4fa9-b3f4-3d15f3ebfca3)
-
 #### Confusion matrix
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/8bb8d630-1027-4cf6-84ef-88259355bf3a)
-
 #### Classification report
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/7da03bd4-021f-4336-aa7f-32827f0306e2)
-
 #### Prediction of LR
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/8bbd57f7-b7a8-49ab-9283-455268ae4c70)
-
-
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
