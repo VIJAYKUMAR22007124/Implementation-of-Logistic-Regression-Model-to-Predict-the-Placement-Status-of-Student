@@ -96,16 +96,12 @@ else:
 
 #### Placement data
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/13e39808-1ad2-4b2e-8388-67ecce12e5f5)
-
 #### Salary data
-![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/811e32b3-793e-4389-9c36-a7835ec7beeb)
-
+![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/811e32b3-793e-4389-9c36-a7835ec7beeb)<br>
 #### Checking the null function()
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/f97c28ca-9d13-473a-abd6-a60f79624f8a)
-
 #### Data duplicate
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/0bb65667-ff40-4650-859e-f229918fbac0)
-
 #### Print data
 ![image](https://github.com/VIJAYKUMAR22007124/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119657657/1ec1b5b1-f9c0-48cc-92da-efb3af80f3ed)
 
